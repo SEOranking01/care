@@ -1,367 +1,217 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
-<meta name="description" content="Discover EMDR Trauma Therapy Singapore for depression, grief, anxiety, and emotional healing. Work with experienced therapists to process deep-rooted issues and achieve lasting mental wellness and resilience.">
-<meta name="robots" content="index, follow">
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://wellnessandhappiness.netlify.app/privacy-policy.html">
-<link rel="shortcut icon"  href="img/talhakhalil007-business-42712511920.png"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-.v67c2b627f5a16ec9731963420f1c4772 p,.v67c2b627f5a16ec9731963420f1c4772 span,.v67c2b627f5a16ec9731963420f1c4772 label{
-font-size:16px!important;
-}
-a{
-text-decoration: none!important;
-}
-footer *{
-font-size:16px !important;
-}
-.nav-link{
-color: #000000;
-
-}
-.w13ffa17151948075bd78b18af10595f3{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
-.x82af976b02f3452eac27d20120ba7064 a,.v67c2b627f5a16ec9731963420f1c4772 a{
-color:#0b0b0b!important;
-text-decoration: underline !important;
-}
-.navbar a{
-font-size: 18.4px!important;
-font-weight: bold;
-}
-.nav-item{
-padding-left:8.1px;
-padding-right:7.8px;
-padding-top:4.7px;
-padding-bottom:5.4px;
-}
-.u5fbd095b42a272d0857a41bafb270ffd:hover{
-box-shadow: 0 49.6px 49.8px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.x82af976b02f3452eac27d20120ba7064 p,.x82af976b02f3452eac27d20120ba7064 a,.x82af976b02f3452eac27d20120ba7064 span,.x82af976b02f3452eac27d20120ba7064 label{
-font-size:16px!important;
-}
-ul{
-list-style: circle;
-}
-.v67c2b627f5a16ec9731963420f1c4772 a{
-font-size:16px;
-}
-html{
-scroll-behavior: smooth;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-footer{
-background:#090909;
-color:#ffffff;
-}
-.btn-md{
-padding: 15.2px 29.6px;
-border-radius: 0;
-}
-    .dropdown-submenu {
-    position: relative;
-}
-
-.dropdown-submenu>.dropdown-menu {
-    top: 0px;
-    left: 100%;
-    margin-top: -16px;
-    margin-left: -1px;
-    -webkit-border-radius: 0 6px 6px 6px;
-    -moz-border-radius: 0 6px 6px;
-    border-radius: 0 6px 6px 6px;
-  
-}
-
-/* Smart positioning for right-edge dropdowns */
-.dropdown-menu-right .dropdown-submenu>.dropdown-menu,
-.nav-item:last-child .dropdown-submenu>.dropdown-menu,
-.nav-item:nth-last-child(2) .dropdown-submenu>.dropdown-menu {
-    left: auto;
-    right: 100%;
-    margin-left: 0;
-    margin-right: -1px;
-    -webkit-border-radius: 6px 0 6px 6px;
-    -moz-border-radius: 6px 0 6px 6px;
-    border-radius: 6px 0 6px 6px;
-}
-
-.dropdown-submenu:hover>.dropdown-menu {
-    display: block;
-}
-
-.dropdown-submenu>a:after {
-    display: block;
-    content: " ";
-    float: right;
-    width: 0;
-    height: 0;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 5px 0 5px 5px;
-    border-left-color: #ccc;
-    margin-top: 5px;
-    margin-right: -10px;
-}
-
-.dropdown-submenu:hover>a:after {
-    border-left-color: #fff;
-}
-
-/* For left-positioned dropdowns, reverse the arrow */
-.dropdown-menu-right .dropdown-submenu>a:after,
-.nav-item:last-child .dropdown-submenu>a:after,
-.nav-item:nth-last-child(2) .dropdown-submenu>a:after {
-    float: left;
-    border-width: 5px 5px 5px 0;
-    border-left-color: transparent;
-    border-right-color: #ccc;
-    margin-left: -10px;
-    margin-right: 0;
-}
-
-.dropdown-menu-right .dropdown-submenu:hover>a:after,
-.nav-item:last-child .dropdown-submenu:hover>a:after,
-.nav-item:nth-last-child(2) .dropdown-submenu:hover>a:after {
-    border-right-color: #fff;
-    border-left-color: transparent;
-}
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    >
  
+  <channel> 
+    <title>EMDR Therapy for Social Anxiety Singapore</title>
+    <atom:link href="https://wellnessandhappiness.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://wellnessandhappiness.netlify.app/index.html</link>
+    <description>Discover EMDR Trauma Therapy Singapore for depression, grief, anxiety, and emotional healing. Work with experienced therapists to process deep-rooted issues and achieve lasting mental wellness and resilience.</description>
+    <lastBuildDate>Wed, 01 Apr 2026 08:14:47 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>
+    hourly  </sy:updatePeriod>
+    <sy:updateFrequency>
+    1 </sy:updateFrequency> 
+  
+<item>
+    <title>EMDR Trauma Therapy Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/index.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/index.html?p=69ccd3f7e0da0</guid>
+    <description><![CDATA[ <p> </p>
 
-.multi-column-dropdown .dropdown-item {
-    break-inside: avoid;
-    page-break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-}
+<p data-end="616" data-start="136">EMDR Trauma Therapy Singapore is a specialized, evidence-based approach designed to help individuals process and heal from traumatic experiences. By using guided bilateral stimulation, this therapy enables the brain to reprocess distressing memories, reducing their emotional impact. Many individuals turn to EMDR Trauma Therapy Singapore to overcome challenges such as PTSD, anxiety, and unresolved emotional trauma, gaining a renewed sense of control and clarity in their lives.</p>
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .multi-column-dropdown {
-      
-        width: 100%;
-    }
-    
-    .dropdown-submenu>.dropdown-menu {
-        position: static;
-        margin: 0;
-        border: none;
-        box-shadow: none;
-    }
-}
+<p data-end="1033" data-start="618">Choosing EMDR Trauma Therapy Singapore provides access to trained therapists who create a safe and supportive environment for healing. Unlike traditional talk therapy, EMDR focuses on reprocessing memories at a neurological level, which can accelerate recovery and produce long-lasting results. This approach is particularly effective for trauma survivors who need a structured, targeted pathway to mental wellness.</p>
 
-/* Use hover only where it exists */
-@media (hover:hover) {
-  .dropdown-submenu:hover > .dropdown-menu { display:block; }
-}
+<p data-end="1454" data-start="1035">With EMDR Trauma Therapy Singapore, clients can experience meaningful improvements in emotional regulation, mental clarity, and overall well-being. The therapy empowers individuals to replace negative thought patterns with healthier responses, enabling them to move forward with confidence. Singapore offers a growing number of qualified EMDR practitioners, making this transformative therapy more accessible than ever.</p>
 
-/* Nested dropdowns should show when .show is present (Bootstrap only sets this for top-level) */
-.dropdown-menu .dropdown-menu { display:none; }
-.dropdown-menu .dropdown-menu.show { display:block; }
+<p><a class="y37a0f9e6f87e1cbb115def5a0be08b1a" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-depression-singapore.html">EMDR Therapy for Depression Singapore</a></p>
+      ]]></description>
+    <content:encoded><![CDATA[ <p> </p>
 
-/* Mobile layout: stack submenus and remove weird offsets */
-@media (max-width: 991.98px) {
-  .dropdown-menu {
-    position: static;          /* keeps the menu within the flow so it won't render off-screen */
-    float: none;
-    margin: 0;
-    box-shadow: none;
-    border: 0;
-  }
-  .dropdown-submenu > .dropdown-menu {
-    margin-left: 0;
-    max-height: 60vh;          /* scroll if long */
-    overflow-y: auto;
-  }
-}
-</style>
-</head>
-<body>
-<nav class="navbar navbar-expand-lg">
-<a class="navbar-brand" href="https://wellnessandhappiness.netlify.app/index.html"  ><img alt="img/talhakhalil007-business-42712511920.png" src="img/talhakhalil007-business-42712511920.png"  width="150px" ></a>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="d-flex ml-auto navbar-nav align-items-center"><li class="nav-item">
-<a class="u7537048d98ec2938bbbbce8ec87e58f6 nav-link" href="https://wellnessandhappiness.netlify.app/index.html" >EMDR Trauma Therapy Singapore</a>
-</li>
-<li class="nav-item">
-<a class="u7537048d98ec2938bbbbce8ec87e58f6 nav-link" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-depression-singapore.html" >EMDR Therapy for Depression Singapore</a>
-</li>
-<li class="nav-item">
-<a class="u7537048d98ec2938bbbbce8ec87e58f6 nav-link" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-grief-singapore.html" >EMDR Therapy for Grief Singapore</a>
-</li>
-<li class="nav-item">
-<a class="u7537048d98ec2938bbbbce8ec87e58f6 nav-link" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-addiction-singapore.html" >EMDR Therapy for Addiction Singapore</a>
-</li>
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle u7537048d98ec2938bbbbce8ec87e58f6" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-insomnia-singapore.html"  >EMDR Therapy for Insomnia Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-abuse-survivors-singapore.html"  >EMDR Therapy for Abuse Survivors Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-workplace-stress-singapore.html"  >EMDR Therapy for Workplace Stress Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-relationship-issues-singapore.html"  >EMDR Therapy for Relationship Issues Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-emotional-healing-singapore.html"  >EMDR Therapy for Emotional Healing Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-negative-beliefs-singapore.html"  >EMDR Therapy for Negative Beliefs Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-fear-and-phobias-singapore.html"  >EMDR Therapy for Fear and Phobias Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-chronic-stress-singapore.html"  >EMDR Therapy for Chronic Stress Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-performance-anxiety-singapore.html"  >EMDR Therapy for Performance Anxiety Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-self-esteem-singapore.html"  >EMDR Therapy for Self-Esteem Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-life-transitions-singapore.html"  >EMDR Therapy for Life Transitions Singapore</a><a class="dropdown-item" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-social-anxiety-singapore.html"  >EMDR Therapy for Social Anxiety Singapore</a></div>
-</li>
-<li class="nav-item"><a class="nav-link u7537048d98ec2938bbbbce8ec87e58f6" rel=nofollow href="https://wellnessandhappiness.netlify.app/about-us.html">About Us</a>
-</li></ul>
-</div>
-</nav>
-<section class="container" style="min-height: 80vh;">
-<h1>Privacy Policy for Elemental Health</h1>
-<p>At Elemental Health one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by Elemental Health and how we use it. You can check out our main website here: </p>
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
-<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Elemental Health. This policy is not applicable to any information collected offline or via channels other than this website. </p>
-<h2>Consent</h2>
-<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
-<h2>Information we collect</h2>
-<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
-<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-<p>When you register for an Account, we may ask for your contact information, including items such as name, Elemental Health, address, email address, and telephone number.</p>
-<h2>How we use your information</h2>
-<p>We use the information we collect in various ways, including to:</p>
-<ul>
-<li>Provide, operate, and maintain our website</li>
-<li>Improve, personalize, and expand our website</li>
-<li>Understand and analyze how you use our website</li>
-<li>Develop new products, services, features, and functionality</li>
-<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
-<li>Send you emails</li>
-<li>Find and prevent fraud</li>
-</ul>
-<h2>Log Files</h2>
-<p>Elemental Health follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
-<h2>Advertising Partners Privacy Policies</h2>
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Elemental Health.</p>
-<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Elemental Health, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
-<p>Note that Elemental Health has no access to or control over these cookies that are used by third-party advertisers.</p>
-<h2>Third Party Privacy Policies</h2>
-<p>Elemental Health's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
-<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
-<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
-<p>Under the CCPA, among other rights, California consumers have the right to:</p>
-<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
-<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
-<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-<h2>GDPR Data Protection Rights</h2>
-<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
-<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
-<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
-<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
-<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
-<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
-<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
-<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-<h2>Children's Information</h2>
-<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
-<p>Elemental Health does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
-<h2>Publisher</h2>
-<p>
-This website is owned and published by:
-Elemental Health</br>
-+65 6530 3412</br>
-101 Irrrawaddy Rd, #13-11 Royal Square Medical Center, Singapore 329565</br>
-</br>
-</br>
-</br>
-</br>
-</p>
-</section>
-<footer>
-<div class="py-4 pt-5 container" >
-<div class="row"><div class="col-lg-3">
-<p>Elemental Health</p>
-<p>Phone : +65 6530 3412</p>
-<p>Address : 101 Irrrawaddy Rd, #13-11 Royal Square Medical Center, Singapore 329565</p>
-</div><div class="col-lg-3"><p><a class="u7537048d98ec2938bbbbce8ec87e58f6" href="https://wellnessandhappiness.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="u7537048d98ec2938bbbbce8ec87e58f6" href="https://wellnessandhappiness.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="u7537048d98ec2938bbbbce8ec87e58f6" href="https://wellnessandhappiness.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
-</p>
-</div></div>
-</div>
-</footer> 
-<script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function() {
-var dropdowns = document.querySelectorAll('.dropdown-hover');
-function showDropdown() {
-var dropdownMenu = this.querySelector('.dropdown-menu');
-dropdownMenu.style.display = 'block';
-}
-function hideDropdown() {
-var dropdownMenu = this.querySelector('.dropdown-menu');
-dropdownMenu.style.display = 'none';
-}
-function handleClick(event) {
-var target = event.target;
-window.location.href = target.getAttribute('href');
-}
-dropdowns.forEach(function(dropdown) {
-dropdown.addEventListener('mouseenter', showDropdown);
-dropdown.addEventListener('mouseleave', hideDropdown);
-var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
-dropdownMenu.addEventListener('click', handleClick);
-});
-});
-</script> 
- <script>
-(function() {
-  // Works with both BS4 (data-toggle events) and BS5
-  var $ = window.jQuery;
+<p data-end="616" data-start="136">EMDR Trauma Therapy Singapore is a specialized, evidence-based approach designed to help individuals process and heal from traumatic experiences. By using guided bilateral stimulation, this therapy enables the brain to reprocess distressing memories, reducing their emotional impact. Many individuals turn to EMDR Trauma Therapy Singapore to overcome challenges such as PTSD, anxiety, and unresolved emotional trauma, gaining a renewed sense of control and clarity in their lives.</p>
 
-  // Toggle nested submenu on click/tap
-  $(document).on('click', '.dropdown-submenu > a', function(e) {
-    var $toggle = $(this);
-    var $submenu = $toggle.next('.dropdown-menu');
+<p data-end="1033" data-start="618">Choosing EMDR Trauma Therapy Singapore provides access to trained therapists who create a safe and supportive environment for healing. Unlike traditional talk therapy, EMDR focuses on reprocessing memories at a neurological level, which can accelerate recovery and produce long-lasting results. This approach is particularly effective for trauma survivors who need a structured, targeted pathway to mental wellness.</p>
 
-    // If there isn't a submenu, behave like a normal link
-    if (!$submenu.length) return;
+<p data-end="1454" data-start="1035">With EMDR Trauma Therapy Singapore, clients can experience meaningful improvements in emotional regulation, mental clarity, and overall well-being. The therapy empowers individuals to replace negative thought patterns with healthier responses, enabling them to move forward with confidence. Singapore offers a growing number of qualified EMDR practitioners, making this transformative therapy more accessible than ever.</p>
 
-    e.preventDefault();
-    e.stopPropagation();
+<p><a class="y37a0f9e6f87e1cbb115def5a0be08b1a" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-depression-singapore.html">EMDR Therapy for Depression Singapore</a></p>
+      ]]></content:encoded>
+</item>
 
-    // Close sibling submenus at the same level
-    $toggle.parent('.dropdown-submenu')
-      .siblings('.dropdown-submenu')
-      .find('>.dropdown-menu.show')
-      .removeClass('show');
+<item>
+    <title>EMDR Therapy for Depression Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-depression-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-depression-singapore.html?p=69ccd3f7e0dde</guid>
+    <description><![CDATA[ <p><a class="u0a324dccd45181ebd6246eae9c7f9c51" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-grief-singapore.html">EMDR Therapy for Grief Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="u0a324dccd45181ebd6246eae9c7f9c51" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-grief-singapore.html">EMDR Therapy for Grief Singapore</a></p>      ]]></content:encoded>
+</item>
 
-    // Toggle this submenu
-    $submenu.toggleClass('show');
+<item>
+    <title>EMDR Therapy for Grief Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-grief-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-grief-singapore.html?p=69ccd3f7e0de5</guid>
+    <description><![CDATA[ <p><a class="w259d95f037cd2fe28d98009e107de069" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-addiction-singapore.html">EMDR Therapy for Addiction Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="w259d95f037cd2fe28d98009e107de069" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-addiction-singapore.html">EMDR Therapy for Addiction Singapore</a></p>      ]]></content:encoded>
+</item>
 
-    // Keep parent dropdown open
-    $toggle.closest('.dropdown-menu').addClass('show');
+<item>
+    <title>EMDR Therapy for Addiction Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-addiction-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-addiction-singapore.html?p=69ccd3f7e0dea</guid>
+    <description><![CDATA[ <p><a class="wafc9b4f96297648a095f428d342d7d80" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-insomnia-singapore.html">EMDR Therapy for Insomnia Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="wafc9b4f96297648a095f428d342d7d80" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-insomnia-singapore.html">EMDR Therapy for Insomnia Singapore</a></p>      ]]></content:encoded>
+</item>
 
-    // Accessibility state
-    $toggle.attr('aria-expanded', $submenu.hasClass('show') ? 'true' : 'false');
-  });
+<item>
+    <title>EMDR Therapy for Insomnia Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-insomnia-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-insomnia-singapore.html?p=69ccd3f7e0df6</guid>
+    <description><![CDATA[ <p><a class="b790763894f09e9aa0d75162bb3c7d987" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-abuse-survivors-singapore.html">EMDR Therapy for Abuse Survivors Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="b790763894f09e9aa0d75162bb3c7d987" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-abuse-survivors-singapore.html">EMDR Therapy for Abuse Survivors Singapore</a></p>      ]]></content:encoded>
+</item>
 
-  // When the top-level dropdown closes, close all nested submenus
-  $(document).on('hidden.bs.dropdown', '.dropdown', function() {
-    $(this).find('.dropdown-menu.show').removeClass('show');
-  });
-})();
-</script>
-</body>
-</html>
+<item>
+    <title>EMDR Therapy for Abuse Survivors Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-abuse-survivors-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-abuse-survivors-singapore.html?p=69ccd3f7e0dfc</guid>
+    <description><![CDATA[ <p><a class="v03658196fd8b8ac4d63b4468dead123b" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-workplace-stress-singapore.html">EMDR Therapy for Workplace Stress Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="v03658196fd8b8ac4d63b4468dead123b" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-workplace-stress-singapore.html">EMDR Therapy for Workplace Stress Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Workplace Stress Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-workplace-stress-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-workplace-stress-singapore.html?p=69ccd3f7e0e02</guid>
+    <description><![CDATA[ <p><a class="ddc5cbae452fc2ac4e1a40e0d7d504157" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-relationship-issues-singapore.html">EMDR Therapy for Relationship Issues Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="ddc5cbae452fc2ac4e1a40e0d7d504157" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-relationship-issues-singapore.html">EMDR Therapy for Relationship Issues Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Relationship Issues Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-relationship-issues-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-relationship-issues-singapore.html?p=69ccd3f7e0e07</guid>
+    <description><![CDATA[ <p><a class="tc173668a6abf30015211e2d2494584c0" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-emotional-healing-singapore.html">EMDR Therapy for Emotional Healing Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="tc173668a6abf30015211e2d2494584c0" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-emotional-healing-singapore.html">EMDR Therapy for Emotional Healing Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Emotional Healing Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-emotional-healing-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-emotional-healing-singapore.html?p=69ccd3f7e0e0e</guid>
+    <description><![CDATA[ <p><a class="f3e49e2fdb3deaf72f11d252fd9922ff1" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-negative-beliefs-singapore.html">EMDR Therapy for Negative Beliefs Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="f3e49e2fdb3deaf72f11d252fd9922ff1" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-negative-beliefs-singapore.html">EMDR Therapy for Negative Beliefs Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Negative Beliefs Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-negative-beliefs-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-negative-beliefs-singapore.html?p=69ccd3f7e0e13</guid>
+    <description><![CDATA[ <p><a class="ub16108b1e9ad2fa891e0fb363d88a344" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-fear-and-phobias-singapore.html">EMDR Therapy for Fear and Phobias Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="ub16108b1e9ad2fa891e0fb363d88a344" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-fear-and-phobias-singapore.html">EMDR Therapy for Fear and Phobias Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Fear and Phobias Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-fear-and-phobias-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-fear-and-phobias-singapore.html?p=69ccd3f7e0e17</guid>
+    <description><![CDATA[ <p><a class="daebe1bb12a7c921cde2a154754868530" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-chronic-stress-singapore.html">EMDR Therapy for Chronic Stress Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="daebe1bb12a7c921cde2a154754868530" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-chronic-stress-singapore.html">EMDR Therapy for Chronic Stress Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Chronic Stress Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-chronic-stress-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-chronic-stress-singapore.html?p=69ccd3f7e0e1b</guid>
+    <description><![CDATA[ <p><a class="ad9c585c79f711833a388365548ddc547" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-performance-anxiety-singapore.html">EMDR Therapy for Performance Anxiety Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="ad9c585c79f711833a388365548ddc547" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-performance-anxiety-singapore.html">EMDR Therapy for Performance Anxiety Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Performance Anxiety Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-performance-anxiety-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-performance-anxiety-singapore.html?p=69ccd3f7e0e25</guid>
+    <description><![CDATA[ <p><a class="zad6d8ecd37a6cb289bc4b24740fe9152" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-self-esteem-singapore.html">EMDR Therapy for Self-Esteem Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="zad6d8ecd37a6cb289bc4b24740fe9152" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-self-esteem-singapore.html">EMDR Therapy for Self-Esteem Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Self-Esteem Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-self-esteem-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-self-esteem-singapore.html?p=69ccd3f7e0e29</guid>
+    <description><![CDATA[ <p><a class="f951c4194ddcdbed31576d20e065ccde9" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-life-transitions-singapore.html">EMDR Therapy for Life Transitions Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="f951c4194ddcdbed31576d20e065ccde9" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-life-transitions-singapore.html">EMDR Therapy for Life Transitions Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Life Transitions Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-life-transitions-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-life-transitions-singapore.html?p=69ccd3f7e0e2e</guid>
+    <description><![CDATA[ <p><a class="t044598033bc48b15e9c670bc9242c7eb" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-social-anxiety-singapore.html">EMDR Therapy for Social Anxiety Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="t044598033bc48b15e9c670bc9242c7eb" href="https://wellnessandhappiness.netlify.app/emdr-therapy-for-social-anxiety-singapore.html">EMDR Therapy for Social Anxiety Singapore</a></p>      ]]></content:encoded>
+</item>
+
+<item>
+    <title>EMDR Therapy for Social Anxiety Singapore</title>
+    <link>https://wellnessandhappiness.netlify.app/emdr-therapy-for-social-anxiety-singapore.html</link>
+    <pubDate>Wed, 01 Apr 2026 08:14:47 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category>
+    <media:content url="https://wellnessandhappiness.netlify.app/img/mohamedhassan-pregnant-87412141920.png" />
+    <guid  isPermaLink="false" >https://wellnessandhappiness.netlify.app/emdr-therapy-for-social-anxiety-singapore.html?p=69ccd3f7e0e32</guid>
+    <description><![CDATA[ <p><a class="ye4edd1e2566f289f0c3771efc7ce98ac" href="https://wellnessandhappiness.netlify.app/index.html">EMDR Trauma Therapy Singapore</a></p>      ]]></description>
+    <content:encoded><![CDATA[ <p><a class="ye4edd1e2566f289f0c3771efc7ce98ac" href="https://wellnessandhappiness.netlify.app/index.html">EMDR Trauma Therapy Singapore</a></p>      ]]></content:encoded>
+</item>
+</channel>
+            </rss>
